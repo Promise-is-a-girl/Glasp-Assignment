@@ -19,9 +19,9 @@ ___
 
 One of the frustrating moments for learners is when working on a project or writing a thesis and you come across several information that are inspiring and educative, and you are trying to put them all together as a solid point for your work and then just to realise that you did not write down the page, chapter, or title of the article.
 
-As far back as I could say the alphabet without stuttering and knowing how to read and write. One of my self-awareness moments is being an organized reader with an intuitive mind of capturing everything I glance on. For this reason, I wished my collections of books were highlighted digitally for future reference. 
+As far back as I could say the alphabet without stuttering and knowing how to read and write. One of my self-awareness moments is being an organized reader with an intuitive mind of capturing everything I glance on. For this reason, I wished my collections of books were highlighted digitally for future reference instead of relying on the traditional methods. 
 
-With Glasp, my wish was fulfilled. Today, I can comfortably read, and share my thoughts by highlighting my notes, research articles, books and connect with other learners globally. 
+With the implementation of Glasp - a socila higlighter, my wish was fulfilled. Today, I can comfortably read, and share my thoughts by highlighting my notes, research articles, books and connect with other learners globally. 
 
 
 **INTRODUCTION**
@@ -35,6 +35,8 @@ Glasp allows users to highlight and share content with their social networks. Th
 Glasp stands for Greatest Legacy Accumulated as Shared Proof. Using Glasp, users can collect and highlight quotes and ideas from the web without switching between windows while simultaneously accessing the knowledge of other like-minded people.
 
 Glasp is often referred to as the "social web highlighter."  It is a web highlighter that enables you to swiftly and effectively highlight crucial passages while reading. 
+
+Glasp is a service that enables users save and share highlights and notes from various applications. It was created by Kazuki Nakayashiki in 2021.
 The elimination of knowledge isolation is Glasp's main goal.
 
 ![image.png](https://lh3.googleusercontent.com/tB9DLsVQ5T9FvZYrAV9HZqTOHY0EzWTuzuFaoKhc9mIZo3oinJ04w0-rlpYYmsCEHxD9dfdRQWs4p9aZFXPYH6C64Q=w128-h128-e365-rj-sc0x00ffffff)
@@ -124,4 +126,4 @@ You can customize Glasp based on your preference by clicking on settings when yo
 
 **CONCLUSION**
 
-The majority of social highlighting systems will have tools that let users make profiles, follow other users, and group their highlights into collections or categories. For users to track the effectiveness of their highlights, some platforms may also include services like commenting, messaging, and statistics
+The majority of social highlighting systems will have tools that let users make profiles, follow other users, and group their highlights into collections or categories. For users to track the effectiveness of their highlights, some platforms may also include services like commenting, messaging, and statistics.
