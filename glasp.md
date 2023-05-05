@@ -72,12 +72,14 @@ Highlights and notes on Glasp are public which can be shared through and *link* 
 
 7. Productivity: In academic, professional, and personal situations, utilizing a note highlighter can save time and increase productivity.
 
-**KINDLE IMPORT**
+**KINDLE NOTE APP AND GLASP**
 
 Kindle is a line of e-readers that use e-ink technology to provide a paper-like reading experience, making it easier on the eyes for prolonged reading. Users are able to download, read, and buy digital books, newspapers, magazines, and other material from Amazon's online shop is provided to users.
 
 Glasp collect information using Kindle. You can organize your highlights in Glasp by importing your Kindle highlights and notes.
 
+![](image/kindle%20import.PNG)
+![](image/kindle%201.PNG)
 
 
 **INSTALLATION**
